@@ -13,9 +13,6 @@
 </p>
 
 
-
-
-
 MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code. [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Machine%20Learning%20in%20one%20line%20of%20code%21&url=https://www.mindsdb.com&via=mindsdb&hashtags=ai,ml,machine_learning,neural_networks)
 
 <table border="0" style=" border: 0px solid white;">
@@ -71,6 +68,11 @@ MindsDB is an Explainable AutoML framework for developers built on top of Pytorc
 ```bash
 sh -c "$(curl -sSL https://raw.githubusercontent.com/mindsdb/mindsdb/master/distributions/docker/build-docker.sh)"
 ```
+
+
+* **Okteto**: Run it directly in the cloud
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+
 
 
 ### Usage
