@@ -1,5 +1,6 @@
 name: mindsdb
-command: bash
+image: mindsdb
+command: python
 workdir: /okteto
 resources:
   limits:
