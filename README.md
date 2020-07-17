@@ -72,7 +72,7 @@ sh -c "$(curl -sSL https://raw.githubusercontent.com/mindsdb/mindsdb/master/dist
 
 * **Okteto**: Run it directly in the cloud
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://okteto.sf.okteto.com/deploy)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://okteto.sf.okteto.net/deploy)
 
 
 
