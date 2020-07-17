@@ -1,0 +1,9 @@
+name: mindsdb
+command: bash
+workdir: /okteto
+resources:
+  limits:
+    memory: "1Gi"
+    cpu: "1000m"
+push:
+  context: distributions/docker
