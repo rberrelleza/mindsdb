@@ -5,5 +5,7 @@ resources:
   limits:
     memory: "1Gi"
     cpu: "1000m"
+build:
+  context: distributions/docker
 push:
   context: distributions/docker
